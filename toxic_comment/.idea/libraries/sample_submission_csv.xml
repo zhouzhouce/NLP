@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sample_submission.csv">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/sample_submission.csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

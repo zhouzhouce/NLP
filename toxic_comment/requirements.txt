@@ -1,0 +1,8 @@
+himl
+pyyaml
+#tensorflow
+#tensorflow-text
+#tf-models-official
+numpy
+pandas
+sklearn
